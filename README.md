@@ -35,6 +35,12 @@ brew install lua
 - Build the project
 `
 
+## How to RUN
+
+- Run `make` or `make build`
+- Then `make run` to run
+- `make clean` to delete compiled files.
+
 ## Credits
 
 - Course at [https://courses.pikuma.com/courses/2dgameengine](https://courses.pikuma.com/courses/2dgameengine)
